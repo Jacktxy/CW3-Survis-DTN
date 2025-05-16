@@ -1,0 +1,223 @@
+[
+    {
+        "type": "article",
+        "id": "Salh2021DL6G",
+        "title": "A Survey on Deep Learning",
+        "authors": [
+            "Adeeb Salh",
+            "Lukman Audah",
+            "Nor Shahida Mohd Shah",
+            "Abdulraqeb Alhammadi",
+            "Qazwan Abdullah",
+            "Yun Hee Kim",
+            "Samir Ahmed Al-Gailani",
+            "Shipun A. Hamzah",
+            "Bashar Ali F. Esmail",
+            "Akram A. Almohammedi"
+        ],
+        "year": 2021,
+        "venue": "IEEE Access",
+        "keywords": [
+            "Artificial neural networks",
+            "artificial intelligence",
+            "Internet of Things",
+            "sixth-generation wireless communication",
+            "URLLC"
+        ],
+        "doi": "10.1109/ACCESS.2021.3069707"
+    },
+    {
+        "type": "article",
+        "id": "Wang2016BD4ECN",
+        "title": "Big Data Analytics for Emergency Communication Networks: A Survey",
+        "authors": [
+            "Junbo Wang",
+            "Yilang Wu",
+            "Neil Yen",
+            "Song Guo",
+            "Zixue Cheng"
+        ],
+        "year": 2016,
+        "venue": "IEEE Communications Surveys & Tutorials",
+        "keywords": [
+            "Emergency communication networks",
+            "big data analytics",
+            "spatial analytics",
+            "machine learning",
+            "social media",
+            "disaster response"
+        ],
+        "doi": "10.1109/COMST.2016.2540004"
+    },
+    {
+        "type": "article",
+        "id": "Zhu2017CBTC",
+        "title": "Communication-Based Train Control System Performance Optimization Using Deep Reinforcement Learning",
+        "authors": [
+            "Li Zhu",
+            "Ying He",
+            "F. Richard Yu",
+            "Bin Ning",
+            "Tao Tang",
+            "Nan Zhao"
+        ],
+        "year": 2017,
+        "venue": "IEEE Transactions on Vehicular Technology",
+        "keywords": [
+            "Communication-Based Train Control",
+            "Deep Reinforcement Learning",
+            "CBTC",
+            "Train Control Optimization",
+            "Handoff Decision",
+            "Wireless Networks",
+            "System Safety"
+        ],
+        "doi": "10.1109/TVT.2017.2724060"
+    },
+    {
+        "type": "article",
+        "id": "Khabbaz2012DTN",
+        "title": "Disruption-Tolerant Networking: A Comprehensive Survey on Recent Developments and Persisting Challenges",
+        "authors": [
+            "Maurice J. Khabbaz",
+            "Chadi M. Assi",
+            "Wissam F. Fawaz"
+        ],
+        "year": 2012,
+        "venue": "IEEE Communications Surveys & Tutorials",
+        "keywords": [
+            "Delay-tolerant networks",
+            "bundle protocol",
+            "routing",
+            "ICN",
+            "cooperative DTNs",
+            "DTN architecture"
+        ],
+        "doi": "10.1109/SURV.2011.041911.00093"
+    },
+    {
+        "type": "article",
+        "id": "Pereira2012VDTN",
+        "title": "From Delay-Tolerant Networks to Vehicular Delay-Tolerant Networks",
+        "authors": [
+            "Paulo Rog\u00e9rio Pereira",
+            "Augusto Casaca",
+            "Joel J. P. C. Rodrigues",
+            "Vasco N. G. J. Soares",
+            "Joan Triay",
+            "Cristina Cervell\u00f3-Pastor"
+        ],
+        "year": 2012,
+        "venue": "IEEE Communications Surveys & Tutorials",
+        "keywords": [
+            "Vehicular Delay-Tolerant Networks",
+            "Delay/Disruption-Tolerant Networks",
+            "Vehicular Ad Hoc Networks",
+            "Intelligent Transport Systems"
+        ],
+        "doi": "10.1109/SURV.2011.081611.00102"
+    },
+    {
+        "type": "article",
+        "id": "Chourasia2021VDTN",
+        "title": "Optimizing the performance of vehicular delay tolerant networks using multi-objective PSO",
+        "authors": [
+            "Vishakha Chourasia",
+            "Sudhakar Pandey",
+            "Sanjay Kumar"
+        ],
+        "year": 2021,
+        "venue": "Computer Communications",
+        "keywords": [
+            "DTN",
+            "PSO",
+            "Multi-objective optimization",
+            "Artificial intelligence (AI)",
+            "Forwarding algorithm",
+            "Social network parameters"
+        ],
+        "doi": "10.1016/j.comcom.2021.06.006"
+    },
+    {
+        "type": "article",
+        "id": "Matracia2022PDC",
+        "title": "Post-Disaster Communications: Enabling Technologies, Architectures, and Open Challenges",
+        "authors": [
+            "Maurilio Matracia",
+            "Nasir Saeed",
+            "Mustafa A. Kishk",
+            "Mohamed-Slim Alouini"
+        ],
+        "year": 2022,
+        "venue": "IEEE Open Journal of the Communications Society",
+        "keywords": [
+            "Coverage",
+            "stochastic geometry",
+            "non-terrestrial networks",
+            "resilience",
+            "backhaul",
+            "6G"
+        ],
+        "doi": "10.1109/OJCOMS.2022.3192040"
+    },
+    {
+        "type": "article",
+        "id": "Kang2015VDTN",
+        "title": "Routing Protocols for Vehicular Delay Tolerant Networks: A Survey",
+        "authors": [
+            "Hyunwoo Kang",
+            "Syed Hassan Ahmed",
+            "Dongkyun Kim",
+            "Yun-Su Chung"
+        ],
+        "year": 2015,
+        "venue": "International Journal of Distributed Sensor Networks",
+        "keywords": [
+            "Vehicular Delay-Tolerant Networks (VDTNs)",
+            "routing protocols",
+            "store-carry-forward",
+            "mobility",
+            "infrastructure support",
+            "packet delivery",
+            "congestion control"
+        ],
+        "doi": "10.1155/2015/325027"
+    },
+    {
+        "type": "article",
+        "id": "Singh2021VDTNML",
+        "title": "Vehicular Delay Tolerant Network Based Communication Using Machine Learning Classifiers",
+        "authors": [
+            "Amit Kumar Singh",
+            "Rajendra Pamula"
+        ],
+        "year": 2021,
+        "venue": "International Journal of Distributed Sensor Networks",
+        "keywords": [
+            "Vehicular delay tolerant network",
+            "Routing strategy",
+            "Machine learning",
+            "Classifier",
+            "Relay selection"
+        ],
+        "doi": "10.1007/978-981-16-0386-0_11"
+    },
+    {
+        "type": "article",
+        "id": "Rolla2013DTRB",
+        "title": "A reinforcement learning-based routing for delay tolerant networks",
+        "authors": [
+            "Vitor G. Rolla",
+            "Marilia Curado"
+        ],
+        "year": 2013,
+        "venue": "Engineering Applications of Artificial Intelligence",
+        "keywords": [
+            "Delay tolerant routing",
+            "Multi-agent systems",
+            "Reinforcement-learning",
+            "Gossip algorithms"
+        ],
+        "doi": "10.1016/j.engappai.2013.07.017"
+    }
+]
